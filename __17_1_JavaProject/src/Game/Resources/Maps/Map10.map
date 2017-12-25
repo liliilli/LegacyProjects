@@ -1,0 +1,36 @@
+#MAPID 10
+#NAME Kingdom Village
+#WIDTH 30
+#HEIGHT 15
+#TILESET 00
+#MAPFLOOR
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W``~~~~~~``WWsaveWWWWWWE_____W
+W_`~~~~~~`_WW____W____WW_____W
+W_`~~~~~~`_W__________WW_____W
+W_````````_WW____WW__WWW_____W
+W___________WW__WW___________W
+WWWWWW______WW__WWWWWWWWWWWWWW
+WitemW_____WW____WWWWWrecoverW
+W____W_______________W_______W
+W____________________________W
+WWWWWWWW_______________WWWWWWW
+WweaponW_______________WarmorW
+W______W_______________W_____W
+W____________________________W
+WWWWWWWWWWWWWEEEEWWWWWWWWWWWWW
+#OBJECTS
+E<13,14>00:00<11,05> ; TO WORLD MAP
+E<14,14>01:00<11,05> : TO WORLD MAP
+E<15,14>02:00<12,05> ; TO WORLD MAP
+E<16,14>03:00<12,05> : TO WORLD MAP
+O<13,07>43:Bear
+O<16,07>43:Hay
+O<13,04>43:Yin
+O<16,04>43:Beck
+O<24,03>43:Johnson
+O<28,03>43:Conan
+O<13,10>40:Richard
+O<03,12>41:Kim Lee
+O<26,02>42:King
+O<14,02>01:SaveHelper
